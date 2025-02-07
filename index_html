@@ -18,32 +18,32 @@
 
 
     <label for="name">Name:</label>
-    <textarea id="name" placeholder="Enter your Name" rows="1" required></textarea><imput type="name" id="name" placeholder="Enter your Name" required></imput>
+    <input type="name" id="name" placeholder="Enter your Name" required/>
     </fieldset>
 
 
     </fieldset>
     <fieldset>
         <label for="email">email:</label>
-        <textarea id="education"placeholder="Enter your Email" rows="1" required> </textarea><imput type="email" id="email" placeholder="Enter your Email" required></imput>
+        <input type="email" id="email" placeholder="Enter your Email" required/>
         </fieldset>
 
         <fieldset>
             <label for="phone">phone:</label>
- <textarea id="education"placeholder="Enter your Phone number" rows="1" required> </textarea><imput type="phone" id="phone" placeholder="Enter your Phone Number" required></imput>
+ <input type="phone" id="phone" placeholder="Enter your Phone Number" required/>
             </fieldset>
             </fieldset>
                 <fieldset>
 <legend>Education</legend>
 <label for="education">Education:</label>
-<textarea id="education"placeholder="Enter your Education" rows="4" required > </textarea>
+<input id="education"placeholder="Enter your Education" rows="4" required /> 
 
 
                 </fieldset>
                 <fieldset>
                     <legend>Experience</legend>
                     <label for="experience">Experience:</label>
-                    <textarea id="experience"placeholder="Enter your Work Experience" rows="4" required > </textarea>
+                    <input id="experience"placeholder="Enter your Work Experience" rows="4" required/>
                     
 
 
@@ -52,7 +52,7 @@
                 <fieldset>
                     <legend>Skills</legend>
                     <label for="Skills">Experience:</label>
-                    <textarea id="Skills"placeholder="Enter your skills" rows="4" required > </textarea>
+                    <input id="Skills"placeholder="Enter your skills" rows="4" required /> 
                     
 
 
